@@ -1,0 +1,75 @@
+General Reference:
+	measuring all things!
+		https://www.youtube.com/watch?v=_hE_MtasB2Q&list=PL055Epbe6d5b1ymaQ6cgUW5q6cmoX-eMM
+		http://www.slideshare.net/mikebrittain/metrics-driven-engineering-at-etsy
+		http://www.slideshare.net/juokaz/you-cant-optimize-what-you-cannot-measure-lone-star-php
+		http://red-badger.com/blog/2013/11/04/fast-and-flexible-monitoring-with-statsd-graphite-and-librato/
+	https://github.com/monitoringsucks
+	http://devops.com/features/guide-modern-monitoring-alerting/
+	https://speakerdeck.com/monitorama
+	http://vimeo.com/monitorama
+	http://vimeo.com/95066828
+	https://twitter.com/Monitorama
+	http://www.chesnok.com/daily/2014/05/10/monitorama-2014-wrapup/
+	http://www.slideshare.net/m_richardson/open-source-monitoring-tools-17199123
+	http://www.slideshare.net/roidelapluie/monitoring-at-cloud-scale
+	http://pivotallabs.com/139-metrics-metrics-everywhere/
+	http://blog.safaribooksonline.com/2014/05/14/monitorama-2014/
+		"I’d like to see us start thinking of monitoring as a service. Can we create an alert and log message pipeline so that others in the company can subscribe to certain portions and build tools? Can we make tools that allow for monitoring and message passing to be self-service so that operations isn’t a bottleneck for setting up monitoring and logging, and some of the responsibility can be shared with the appropriate people. I imagine a system where the data flows freely and really smart people (way smarter than I) make awesome internal tools."
+
+tools
+	esper - a component for complex event processing (CEP) and event series analysis
+		http://esper.codehaus.org/
+	estremon - live Monitoring with Subsecond temporal resolution
+		https://extremon.org/
+	flapjack - monitoring notification routing + event processing system
+		http://flapjack.io/
+	graphite - scalable realtime graphing
+		http://graphite.wikidot.com/
+		http://www.slideshare.net/MatthewBarlocker/highly-available-graphite
+		http://stackoverflow.com/questions/17474505/getting-accurate-graphite-stats-counts
+		http://www.slideshare.net/spil-engineering/mysql-performance-monitoring-using-statsd-and-graphite-pluk2013
+		http://www.slideshare.net/damaex17/nginx-31376150
+		http://imansson.wordpress.com/2012/10/05/graphite-and-sensu/
+		https://github.com/jmxtrans/jmxtrans
+		http://blog.gingerlime.com/2013/graphite-alerts-with-monit/
+		http://graphite.readthedocs.org/en/latest/tools.html
+		https://github.com/iFixit/pipe-to-graphite
+		http://grey-boundary.com/the-architecture-of-clustering-graphite/#comment-1310676028
+		graphite nagios
+			http://agiletesting.blogspot.de/2012/01/graphing-alerting-and-mission-control.html
+			http://www.protocolostomy.com/2012/02/24/sending-alerts-with-graphite-graphs-from-nagios/
+			https://github.com/shawn-sterling/graphios
+			https://github.com/obfuscurity/nagios-scripts
+			https://github.com/pyr/check-graphite
+			https://github.com/etsy/nagios_tools
+			https://github.com/etsy/nagios_tools/blob/master/check_graphite_data
+	heka - a tool for high performance data gathering, analysis, monitoring, and reporting
+		https://blog.mozilla.org/services/2013/04/30/introducing-heka/
+		http://kartar.net/2014/09/a-whole-lot-of-heka/
+	jmxtrans - the missing connector between JMX and logging / monitoring / graphing packages
+		https://github.com/jmxtrans/jmxtrans
+	kale:skyline - an anomaly detection system
+		http://codeascraft.com/2013/06/11/introducing-kale/
+		https://github.com/etsy/skyline
+	megaphone - proxy and collate JSON based status data in a centralized service
+		https://github.com/looprock/Megaphone
+	rietmann - aggregates events from your servers and applications with a powerful stream processing language
+		http://riemann.io/
+		http://riemann.io/clients.html
+		http://cloudierthanthou.wordpress.com/2014/01/09/do-it-yourself-cloudwatch-style-alarms-using-riemann/
+	sensu - open source monitoring framework
+		http://sensuapp.org/
+		http://imansson.wordpress.com/2012/11/26/why-sensu-is-a-monitoring-router-some-cool-handlers/
+		http://www.slideshare.net/bethanyaerskine/sense-and-sensubility
+
+dashboards
+	dashing - exceptionally handsome dashboard framework
+		http://shopify.github.io/dashing/
+			http://thomasvm.github.io/blog/2012/11/19/bling-dashboards-using-graphite-and-dashing/
+	dusk - finding hotspots across a range of values in the same metric domain
+		https://github.com/obfuscurity/dusk
+	rnoc - a Network Operations Center built with Ruby on Rails
+		https://github.com/Brofaces/rnoc/
+	grafana - a metrics dashboard and graph editor for Graphite, InfluxDB & OpenTSDB
+		http://grafana.org/
