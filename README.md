@@ -15,4 +15,4 @@ General resources
 * http://www.ustream.tv/channel/devopsdays-austin-2014
 * http://devops-bookmarks.herokuapp.com/
 * http://scottmuc.com/valuable-links-devops/
-http://marceldegraaf.net/2014/04/24/experimenting-with-coreos-confd-etcd-fleet-and-cloudformation.html
+* http://marceldegraaf.net/2014/04/24/experimenting-with-coreos-confd-etcd-fleet-and-cloudformation.html
