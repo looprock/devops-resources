@@ -16,3 +16,4 @@ General resources
 * http://devops-bookmarks.herokuapp.com/
 * http://scottmuc.com/valuable-links-devops/
 * http://marceldegraaf.net/2014/04/24/experimenting-with-coreos-confd-etcd-fleet-and-cloudformation.html
+* http://allthingsopen.com/2014/10/22/a-demonstration-of-kolla-docker-and-kubernetes-based-deployment-of-openstack-services-on-atomic/
