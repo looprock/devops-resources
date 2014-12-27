@@ -58,6 +58,7 @@ tools
 		http://riemann.io/
 		http://riemann.io/clients.html
 		http://cloudierthanthou.wordpress.com/2014/01/09/do-it-yourself-cloudwatch-style-alarms-using-riemann/
+		http://kartar.net/2014/12/an-introduction-to-riemann/
 	sensu - open source monitoring framework
 		http://sensuapp.org/
 		http://imansson.wordpress.com/2012/11/26/why-sensu-is-a-monitoring-router-some-cool-handlers/
