@@ -24,6 +24,7 @@ tools
 		https://extremon.org/
 	flapjack - monitoring notification routing + event processing system
 		http://flapjack.io/
+		https://github.com/RetailMeNot/flapjack-syrup
 	graphite - scalable realtime graphing
 		http://graphite.wikidot.com/
 		http://www.slideshare.net/MatthewBarlocker/highly-available-graphite
