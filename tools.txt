@@ -13,6 +13,11 @@ chef -  an infrastructure automation framework that makes it easy to deploy and 
 		http://lists.opscode.com/sympa/arc/chef/2011-06/msg00179.html
 	rundeck provider:
 		https://github.com/looprock/rundeck-chef-provider     
+consul - a multi-datacente service discovery and key value store service
+	https://consul.io/
+	consul template:
+		https://hashicorp.com/blog/introducing-consul-template.html
+		https://github.com/hashicorp/consul-template
 cloudstack - highly scalable Infrastructure as a Service (IaaS) cloud computing platform
 	http://cloudstack.apache.org/
 docker - an easy, lightweight virtualized environment for portable applications
