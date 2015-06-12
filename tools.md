@@ -2,7 +2,7 @@
 
 a highly scalable, eventually consistent, distributed, structured key-value store
 
-	- http://cassandra.apache.org/
+[(http://cassandra.apache.org/)]
 	- http://www.datastax.com/wp-content/uploads/2014/01/WP-DataStax-Enterprise-Reference-Architecture.pdf
 
 # ceph
@@ -49,7 +49,7 @@ a multi-datacente service discovery and key value store service
 	- https://consul.io/
 
 	## consul template
-	
+
 		- https://hashicorp.com/blog/introducing-consul-template.html
 		- https://github.com/hashicorp/consul-template
 
