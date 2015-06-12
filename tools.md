@@ -9,7 +9,7 @@ http://www.datastax.com/wp-content/uploads/2014/01/WP-DataStax-Enterprise-Refere
 
 a distributed object store and file system designed to provide excellent performance, reliability and scalability
 
-	- http://ceph.com/
+http://ceph.com/
 
 # chatops
 
@@ -29,17 +29,19 @@ https://hubot.github.com/
 
 an infrastructure automation framework that makes it easy to deploy and maintain platforms
 
-	- http://www.getchef.com/
-	- http://www.cryptocracy.com/blog/2011/08/21/using-mcollective-with-chef/
-	- http://cfgmgmtcamp.eu/files/presentations/Chef_and_MCollective.pdf
-	- http://www.slideshare.net/vhata/devops-and-chef
-	- http://www.infoworld.com/d/data-center/review-puppet-vs-chef-vs-ansible-vs-salt-231308?page=0,2
+http://www.getchef.com/<br>
+http://www.cryptocracy.com/blog/2011/08/21/using-mcollective-with-chef/<br>
+http://cfgmgmtcamp.eu/files/presentations/Chef_and_MCollective.pdf<br>
+http://www.slideshare.net/vhata/devops-and-chef<br>
+http://www.infoworld.com/d/data-center/review-puppet-vs-chef-vs-ansible-vs-salt-231308?page=0,2
 
-	## Multi-DC chef:
-		- http://lists.opscode.com/sympa/arc/chef/2011-06/msg00179.html
+## Multi-DC chef:
 
-	## rundeck provider:
-		- https://github.com/looprock/rundeck-chef-provider
+http://lists.opscode.com/sympa/arc/chef/2011-06/msg00179.html
+
+## rundeck provider:
+
+https://github.com/looprock/rundeck-chef-provider
 
 # confd
 
