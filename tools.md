@@ -2,7 +2,7 @@
 
 a highly scalable, eventually consistent, distributed, structured key-value store
 
-http://cassandra.apache.org/
+http://cassandra.apache.org/<br>
 http://www.datastax.com/wp-content/uploads/2014/01/WP-DataStax-Enterprise-Reference-Architecture.pdf
 
 # ceph
