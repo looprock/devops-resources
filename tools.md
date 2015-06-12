@@ -1,6 +1,7 @@
 cassandra - a highly scalable, eventually consistent, distributed, structured key-value store
-	[(http://cassandra.apache.org/)]
-	http://www.datastax.com/wp-content/uploads/2014/01/WP-DataStax-Enterprise-Reference-Architecture.pdf
+	- http://cassandra.apache.org/
+	- http://www.datastax.com/wp-content/uploads/2014/01/WP-DataStax-Enterprise-Reference-Architecture.pdf
+	
 ceph - a distributed object store and file system designed to provide excellent performance, reliability and scalability
 	http://ceph.com/
 chef -  an infrastructure automation framework that makes it easy to deploy and maintain platforms
