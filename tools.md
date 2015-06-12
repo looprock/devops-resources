@@ -13,11 +13,17 @@ a distributed object store and file system designed to provide excellent perform
 
 # chatops
 
-	## errbot
+## errbot
 
-	## Lita
+http://errbot.net/
 
-	## hubot
+## Lita
+
+https://www.lita.io/
+
+## hubot
+
+https://hubot.github.com/
 
 # chef
 
