@@ -1,39 +1,55 @@
 # cassandra
 
 a highly scalable, eventually consistent, distributed, structured key-value store
+
 	- http://cassandra.apache.org/
 	- http://www.datastax.com/wp-content/uploads/2014/01/WP-DataStax-Enterprise-Reference-Architecture.pdf
 
 # ceph
+
 a distributed object store and file system designed to provide excellent performance, reliability and scalability
+
 	- http://ceph.com/
 
 # chatops
+
 	## errbot
+
 	## Lita
+
 	## hubot
 
 # chef
+
 an infrastructure automation framework that makes it easy to deploy and maintain platforms
+
 	- http://www.getchef.com/
 	- http://www.cryptocracy.com/blog/2011/08/21/using-mcollective-with-chef/
 	- http://cfgmgmtcamp.eu/files/presentations/Chef_and_MCollective.pdf
 	- http://www.slideshare.net/vhata/devops-and-chef
 	- http://www.infoworld.com/d/data-center/review-puppet-vs-chef-vs-ansible-vs-salt-231308?page=0,2
+
 	## Multi-DC chef:
 		- http://lists.opscode.com/sympa/arc/chef/2011-06/msg00179.html
+
 	## rundeck provider:
 		- https://github.com/looprock/rundeck-chef-provider
 
 # confd
+
 a lightweight configuration management tool
+
 	- http://www.confd.io/
 	- https://github.com/kelseyhightower/confd
 
 # consul
+
 a multi-datacente service discovery and key value store service
+
 	- https://consul.io/
-	## consul template:
+
+	## consul template
+	
 		- https://hashicorp.com/blog/introducing-consul-template.html
 		- https://github.com/hashicorp/consul-template
 
