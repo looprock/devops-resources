@@ -48,6 +48,8 @@ tools
 	heka - a tool for high performance data gathering, analysis, monitoring, and reporting
 		https://blog.mozilla.org/services/2013/04/30/introducing-heka/
 		http://kartar.net/2014/09/a-whole-lot-of-heka/
+	hindsight - Hindsight is a C based data processing infrastructure based on the lua sandbox project
+		https://github.com/trink/hindsight
 	jmxtrans - the missing connector between JMX and logging / monitoring / graphing packages
 		https://github.com/jmxtrans/jmxtrans
 	kale:skyline - an anomaly detection system
