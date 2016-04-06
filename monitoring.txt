@@ -57,7 +57,9 @@ tools
 		https://github.com/etsy/skyline
 	megaphone - proxy and collate JSON based status data in a centralized service
 		https://github.com/looprock/Megaphone
-	rietmann - aggregates events from your servers and applications with a powerful stream processing language
+	prometheus - An open-source service monitoring system and time series database.
+		https://prometheus.io/
+	riemann - aggregates events from your servers and applications with a powerful stream processing language
 		http://riemann.io/
 		http://riemann.io/clients.html
 		http://cloudierthanthou.wordpress.com/2014/01/09/do-it-yourself-cloudwatch-style-alarms-using-riemann/
